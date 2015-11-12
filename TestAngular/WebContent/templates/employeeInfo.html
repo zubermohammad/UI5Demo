@@ -1,0 +1,48 @@
+<div class="row">
+    <div class="col-md-9">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-md-12 lead">User profile<hr></div>
+          </div>
+          <div class="row">
+			<div class="col-md-4 text-center">
+              <img class="img-circle avatar avatar-original" style="-webkit-user-select:none; 
+              display:block; margin:auto; width: 200px; height: 200px" ng-src="{{employee.EmpPhotoStream}}">
+            </div>
+            <div class="col-md-8">
+              <div class="row">
+                <div class="col-md-12">
+                  <h1 class="only-bottom-margin">{{employee.EmpName}}</h1>
+					<h4 class="only-bottom-margin">{{employee.Pernr}}</h4>
+					<h6 class="only-bottom-margin">{{employee.DesignationTxt}} In Dept {{employee.DeptTxt}}</h6>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-6">
+                  <span class="text-muted">Email:</span> {{employee.Address}}<br>
+                  <span class="text-muted">Birth date:</span> {{employee.Dob}}<br>
+                  <small class="text-muted">Time In: </small>{{employee.TimeIn | date: 'mediumTime'}}<br>
+                  <small class="text-muted">Phone: </small>{{employee.Phone}}<br>
+                  <small class="text-muted">Date: </small>{{employee.TimeResultDate | date : 'medium'}}
+                </div>
+                <div class="col-md-6">
+                  <div class="activity-mini">
+                    <i class="glyphicon glyphicon-comment text-muted"></i> 500
+                  </div>
+                  <div class="activity-mini">
+                    <i class="glyphicon glyphicon-thumbs-up text-muted"></i> 1500
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <hr><button class="btn btn-default pull-right"><i class="glyphicon glyphicon-pencil"></i> Edit</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

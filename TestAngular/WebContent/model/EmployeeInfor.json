@@ -1,0 +1,32 @@
+{
+  "d": {
+    "__metadata": {
+      "id": "http://sapsbx.abyatmegastore.com:8000/sap/opu/odata/SAP/ZHCM_EMP_DASHBOARD_SRV/empdashboardSet('VINOTHM')",
+      "uri": "http://sapsbx.abyatmegastore.com:8000/sap/opu/odata/SAP/ZHCM_EMP_DASHBOARD_SRV/empdashboardSet('VINOTHM')",
+      "type": "ZHCM_EMP_DASHBOARD_SRV.empdashboard"
+    },
+    "Uname": "VINOTHM",
+    "Pernr": "00000229",
+    "EmpName": "Yamen Abou Hamze",
+    "Dept": "50012127",
+    "DeptTxt": "SAP Enterprise",
+    "Designation": "50011937",
+    "DesignationTxt": "SAP Applications Manager",
+    "Dob": "08.11.1978",
+    "EmpPhotoStream": "http://sapcontent.abyatmegastore.com:1090/ContentServer/ContentServer.dll?get&pVersion=0046&contRep=Z4&docId=E2168BF90225E7F1BB730050569644D8&compId=DATA&accessMode=r&authId=CN%3DPAB,OU%3DI0020261641,OU%3DSAPWebAS,O%3DSAPTrustCommunity,C%3DDE&expiration=20151109132721&secKey=MIIBUQYJKoZIhvcNAQcCoIIBQjCCAT4CAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHATGCAR0wggEZAgEBMG8wZDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzARBgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwMjYxNjQxMQwwCgYDVQQDEwNQQUICByAVBwUSBVUwCQYFKw4DAhoFAKBdMBgGCSqGSIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE1MTEwOTExMjcyMVowIwYJKoZIhvcNAQkEMRYEFAY%2FNqYFrkeYtBUxsX5vDXXXYeUMMAkGByqGSM44BAMELjAsAhQULBGS7SW8o4vKy614rwoZWr6pCAIUBiAAFUrWfWWii7jUdFTF%2B9eIfHM%3D",
+    "MimeType": "",
+    "Address": "Canada Dry St, Kuwait",
+    "Phone": "(+965) 18 48 000",
+    "LeaveBalance": "",
+    "AppraisalRating": "",
+    "Salary": "",
+    "PendingTasks": "",
+    "Alerts": "",
+    "Documents": "",
+    "TimeIn": "PT14H27M21S",
+    "TimeOut": "PT14H27M21S",
+    "TimeResultDate": "/Date(1447027200000)/",
+    "ApprovalInbox": "9",
+    "Travel": ""
+  }
+}

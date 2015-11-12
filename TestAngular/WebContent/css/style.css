@@ -1,0 +1,33 @@
+/* CSS used here will be applied after bootstrap.css */
+body {
+  background-color: #eaeaea;
+}
+
+img.avatar {
+  border: 1px solid #eee;
+}
+
+.only-bottom-margin {
+  margin-top: 0px;
+}
+
+.activity-mini {
+  padding-right: 15px;
+  float: left;
+},
+
+.avatar-image{
+	-webkit-user-select:none; 
+    display:block; 
+    margin:auto; 
+    width: 200px; 
+    height: 200px;
+}
+input[type='radio']{
+	
+	margin: 5px 0px 5px 0px;
+}
+
+.row{
+	margin-bottom: 5px;
+}
